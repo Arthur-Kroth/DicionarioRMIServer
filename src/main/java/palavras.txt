@@ -1,0 +1,10 @@
+sim,yes
+não,no
+por favor,please
+obrigado,thank you
+bom dia,good morning
+boa noite,good night
+tchau,bye
+amigo,friend
+cachorro,dog
+gato,cat
